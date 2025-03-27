@@ -1,0 +1,12 @@
+.container {
+  max-width: 1250px;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.maidHeading {
+  color: #303f9f;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,22 @@
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  width: 400px;
+  height: 40px;
+  padding: 10px;
+  font-size: 1rem;
+  color: #303f9f;
+  border: 2px solid #303f9f;
+  border-radius: 3px;
+  outline: none;
+  margin: 0 auto;
+}
+
+.search::placeholder {
+  color: #303f9f;
+  font-weight: 400;
+}
